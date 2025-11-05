@@ -7,5 +7,7 @@ public class GreetingMachine {
     public static void main(String[] args) {
         GreetingMachine gm = new GreetingMachine();
         gm.greet();
+
+        break everything in my code
     }
 }
