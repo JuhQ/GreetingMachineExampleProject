@@ -8,6 +8,8 @@ public class GreetingMachine {
         GreetingMachine gm = new GreetingMachine();
         gm.greet();
 
-        break everything in my code
+        //break everything in my code
+
+        System.out.println("I am printing here");
     }
 }
